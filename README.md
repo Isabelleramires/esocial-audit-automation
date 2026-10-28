@@ -1,13 +1,18 @@
+
 <div align="center">
 
 # 🩺 eSocial Audit Automation
 
+**💼 Professional Context | Independent Demonstration**  
 **Google Apps Script & JavaScript | Occupational Audit Workflow Demo**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Apps Script](https://img.shields.io/badge/Google_Apps_Script-V8-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-Automation-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Node.js](https://img.shields.io/badge/Node.js-Tests-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+![Project Context](https://img.shields.io/badge/Context-Professional-1F6FEB?style=for-the-badge)
+![Repository Type](https://img.shields.io/badge/Repository-Independent%20Demo-673AB7?style=for-the-badge)
 
 **A runnable, standalone portfolio demonstration with synthetic data only.**
 
@@ -17,9 +22,9 @@
 
 ## 📌 About the Project
 
-An independent **Google Sheets + Apps Script** prototype that illustrates how occupational audit workflows can be automated, from processing ASO records to reviewing event results and monitoring performance.
+This project draws on challenges encountered while working with **occupational health and eSocial audit processes in a professional setting**. It is **not a university assignment**. The repository presents an independent **Google Sheets + Apps Script** prototype illustrating data processing, event-result reconciliation, and audit performance tracking.
 
-The project demonstrates practical experience with **JavaScript, data processing, workflow automation, data reconciliation and reporting**. It was newly written for this public portfolio and **is not the original operational system**.
+This portfolio implementation demonstrates applied knowledge of **JavaScript, data processing, workflow automation, data reconciliation, and reporting**. Its code was created specifically as a standalone demonstration: **it is not the company's original operational system and does not reproduce private integrations or workflows**.
 
 > **Demonstration only:** fictional employers, fictional employees, invented receipts, and simulated return statuses. No real external service connection, production credentials, external endpoints, or private business code.
 
@@ -132,3 +137,4 @@ The `ENTRADA ASO` worksheet contains made-up record IDs, employers, people, exam
 
 **Not included:** real employee records, production integrations, company-specific rule engines, service keys, client identifiers, source documentation, private workflows or an operational eSocial audit system.
 
+Read [**technical decisions**](docs/ARCHITECTURE.md) and [**security notes**](SECURITY.md) before adapting this example.
