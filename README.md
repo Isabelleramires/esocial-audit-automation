@@ -3,7 +3,7 @@
 
 # 🩺 eSocial Audit Automation
 
-**💼 Professional Context | Independent Demonstration**  
+**💼 Professional Context**  
 **Google Apps Script & JavaScript | Occupational Audit Workflow Demo**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
