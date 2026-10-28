@@ -132,13 +132,3 @@ The `ENTRADA ASO` worksheet contains made-up record IDs, employers, people, exam
 
 **Not included:** real employee records, production integrations, company-specific rule engines, service keys, client identifiers, source documentation, private workflows or an operational eSocial audit system.
 
-Read [**technical decisions**](docs/ARCHITECTURE.md) and [**security notes**](SECURITY.md) before adapting this example.
-
----
-
-<div align="center">
-
-**Developed as an independent portfolio project**  
-[**Isabelle Ramires · @Ramirescodes0**](https://github.com/Ramirescodes0)
-
-</div>
