@@ -1,0 +1,9 @@
+{
+  "name": "esocial-audit-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone public demonstration using Google Apps Script and synthetic data",
+  "scripts": {
+    "test": "node tests/logic.test.js && node tests/workflow.test.js"
+  }
+}
